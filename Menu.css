@@ -1,0 +1,13 @@
+
+.menu{
+    margin: 0 auto;
+    grid-area: m;
+   
+    div { display: inline; }
+    div{width: 500px ;}
+    div{height: 100px;}
+    font-size: x-large;
+    font{color: blue;}
+  }
+  
+  
